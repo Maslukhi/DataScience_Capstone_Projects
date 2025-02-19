@@ -1,6 +1,6 @@
 # Project: MovieLens Project Report - Building a Movie Recommendation System
-# Name: Han Lu
-# Date: 6/6/2020
+# Name: Maslukhi Khoirul Umam
+# Date: 20/02/2025
 
 ################################
 # Create edx set, validation set
