@@ -1,8 +1,8 @@
 ---
 title: "MovieLens Project Report"
 subtitle: 'Building a Movie Recommendation System'
-author: "Han Lu"
-date: "6/6/2020"
+author: "Maslukhi Khoirul Umam"
+date: "20/02/2025"
 output:
   pdf_document: default
   html_document: default
