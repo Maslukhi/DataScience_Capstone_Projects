@@ -1,6 +1,6 @@
 # Project: Predicting Income with Census Data
-# Name: Han Lu
-# Date: 6/16/2020
+# Name: Maslukhi Khoirul Umam
+# Date: 27/02/2025
 
 
 ########################################
